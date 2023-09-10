@@ -1,0 +1,61 @@
+body {
+    background-color: #6ec7e2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #ffffff;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+.skill-table {
+    width: 50%;
+}
+
+.skill-table td {
+    padding: 8px;
+}
+
+
+/* ลิงค์การติดต่อ */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
